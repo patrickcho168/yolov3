@@ -1,0 +1,4 @@
+classes= 10
+train=data/nuscenes_trainval/train.txt
+valid=data/nuscenes_trainval/valid.txt
+names=data/nuscenes_trainval/classes.names
